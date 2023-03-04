@@ -1,0 +1,1 @@
+# AWS Spot NAT Terraform module
